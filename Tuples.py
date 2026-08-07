@@ -1,0 +1,5 @@
+my_tuples = (10,20,30)
+print(my_tuples[2])
+a = (50,)
+# my_tuples[3]= (56)
+print(my_tuples , a)
